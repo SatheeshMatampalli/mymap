@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Chennai",
+    "type": "Tamilnadu Capital",
+    "latitude": 13.050163,
+    "longitude": 80.221360
+  },
+  {
+    "name": "Amaravathi",
+    "type": "Andhra Capital",
+    "latitude": 16.578181,
+    "longitude": 80.354320
+  },
+  { 
+    "name": "Benguluru",
+    "type": "Karnataka Capital",
+    "latitude": 13.008157,
+    "longitude": 77.613762
+  },
+  {
+    "name": "Hyderabad", 
+    "type": "Telangana Capital",
+    "latitude": 17.407713,
+    "longitude": 78.476012
+  },
+  {
+    "name": "Delhi",
+    "type": "India Capital",
+    "latitude": 28.650161, 
+    "longitude": 77.228669
+  },
+  {
+    "name": "Mumbai",
+    "type": "Maharastra Capital",
+    "latitude": 19.123723, 
+    "longitude": 72.848216
+  },
+  {
+    "name": "Patna",
+    "type": "Bhihar",
+    "latitude": 25.692202,  
+    "longitude": 85.145615
+  },
+  { 
+    "name": "Indore",
+    "type": "Smart City", 
+    "latitude": 22.727711, 
+    "longitude": 75.854226
+  }
+]  

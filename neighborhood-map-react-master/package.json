@@ -11,11 +11,13 @@
     "react-scripts": "1.0.17"
   },
   "scripts": {
+    "predeploy": "npm run build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
-    "deploy": "npm run build && gh-pages -d build"
+    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -b master -d build"
   },
   "homepage": "https://SatheeshMatampalli.github.io/neighborhood-map-react-master"
 }
